@@ -1,7 +1,6 @@
 <!-- GLV-INFORMATICA - README MODERNO -->
-
 <h1 align="center">
-<img src="./logo-glv.png" width="120" alt="GLV Logo" />
+  <img src="logo.png" width="120" alt="Logo da GLV Informática" />
   <br />
   <strong>GLV Informática e Desenvolvimento</strong>
 </h1>
