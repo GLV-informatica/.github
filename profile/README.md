@@ -59,7 +59,7 @@ A **GLV Informática e Desenvolvimento** é uma empresa brasileira com sede em *
 
 ```txt
 Front-end: React • TypeScript • TailwindCSS
-Back-end: Node.js • PHP (Laravel) • FastAPI
+Back-end: Node.js • PHP (Laravel) • FastAPI • Next.js
 Banco de Dados: Supabase • Firebase • PostgreSQL
 Infraestrutura: Docker • Nginx • Cloudflare • CI/CD
 Outros: GitHub Actions • JWT • OAuth • APIs REST/GraphQL
